@@ -1,0 +1,31 @@
+local __util = require 'larian.util'
+
+function LethalHP1(entity)
+	-- Default to Target, like cpp functions
+	entity = entity or context.Target
+    return ConditionResult(entity.HP == 1)
+end
+
+function LethalHP10(entity)
+	-- Default to Target, like cpp functions
+	entity = entity or context.Target
+    return ConditionResult(entity.HP <= 10)
+end
+
+function LethalHP20(entity)
+	-- Default to Target, like cpp functions
+	entity = entity or context.Target
+    return ConditionResult(entity.HP <= 20)
+end
+
+function LethalHP30(entity)
+	-- Default to Target, like cpp functions
+	entity = entity or context.Target
+    return ConditionResult(entity.HP <= 30)
+end
+
+function LethalHP40(entity)
+	-- Default to Target, like cpp functions
+	entity = entity or context.Target
+    return ConditionResult(entity.HP <= 40)
+end

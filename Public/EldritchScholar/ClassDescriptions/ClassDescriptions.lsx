@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="314"/>
+    <region id="ClassDescriptions">
+        <node id="root">
+            <children>
+                <node id="ClassDescription">
+                    <attribute id="BaseHp" type="int32" value="8"/>
+                    <attribute id="CanLearnSpells" type="bool" value="true"/>
+                    <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8"/>
+                    <attribute id="ClassEquipment" type="FixedString" value="EQP_CC_EldritchScholar"/>
+                    <attribute id="Description" type="TranslatedString" handle="hc9529073-7cb3-494e-bfae-ad3c5079b339" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h605cc54a-af27-4619-b0ac-3c1bf99e9356" version="1"/>
+                    <attribute id="HasGod" type="bool" value="false"/>
+                    <attribute id="HpPerLevel" type="int32" value="6"/>
+                    <attribute id="IsDefaultForUseSpellAction" type="bool" value="true"/>
+                    <attribute id="LearningStrategy" type="uint8" value="1"/>
+                    <attribute id="MulticlassSpellcasterModifier" type="double" value="1"/>
+                    <attribute id="MustPrepareSpells" type="bool" value="true"/>
+                    <attribute id="Name" type="FixedString" value="EldritchScholar"/>
+                    <attribute id="PrimaryAbility" type="uint8" value="4"/>
+                    <attribute id="ProgressionTableUUID" type="guid" value="55c05326-0bff-4597-a945-d8fe91175910"/>
+                    <attribute id="SoundClassType" type="FixedString" value="Warlock"/>
+                    <attribute id="SpellCastingAbility" type="uint8" value="4"/>
+                    <attribute id="SpellList" type="guid" value="beb9389e-24f8-49b0-86a5-e8d08b6fdc2e"/>
+                    <attribute id="UUID" type="guid" value="ed704ca7-8f2d-46c9-8ca3-072917fcf663"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="6fe3ae27-dc6c-4fc9-9245-710c790c396c"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="86de94fa-91a2-4abb-8601-f2ad96c70659"/>
+                        </node>
+                    </children>
+                </node>
+
+                <node id="ClassDescription">
+                    <attribute id="CanLearnSpells" type="bool" value="true"/>
+                    <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8"/>
+                    <attribute id="Description" type="TranslatedString" handle="h4246e92c-833e-42eb-9bc0-2c044ab9b4f6" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h99ba88cd-bea1-4042-88f5-9d99d738204e" version="1"/>
+                    <attribute id="LearningStrategy" type="uint8" value="1"/>
+                    <attribute id="MustPrepareSpells" type="bool" value="true"/>
+                    <attribute id="Name" type="FixedString" value="Infernals"/>
+                    <attribute id="ParentGuid" type="guid" value="ed704ca7-8f2d-46c9-8ca3-072917fcf663"/>
+                    <attribute id="PrimaryAbility" type="uint8" value="4"/>
+                    <attribute id="ProgressionTableUUID" type="guid" value="fb9a1655-ab6e-499b-ae4d-befe4f260967"/>
+                    <attribute id="SoundClassType" type="FixedString" value="Warlock"/>
+                    <attribute id="SpellCastingAbility" type="uint8" value="4"/>
+                    <attribute id="UUID" type="guid" value="01103f07-25ea-4bd6-8699-593ace61b49b"/>
+					<children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="fbe3ee5d-1bb8-4c0b-a18c-26386101a680"/>
+                        </node>
+                    </children>
+                </node>
+
+
+            </children>
+        </node>
+    </region>
+</save>

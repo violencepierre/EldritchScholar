@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="322"/>
+    <region id="ProgressionDescriptions">
+        <node id="root">
+            <children>
+			
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="hcc0b91f0-a7f3-4343-8606-d1f4493891d9" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hee932a36-e8c2-4ea2-81b9-779621d44289" version="1"/>
+                    <attribute id="ProgressionTableId" type="guid" value="55c05326-0bff-4597-a945-d8fe91175910"/>
+                    <attribute id="SelectorId" type="FixedString" value="ResearchApproach1"/>
+                    <attribute id="UUID" type="guid" value="c8a74c87-1f6c-4914-8e5b-3359ddd2ffc8"/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="hcc0b91f0-a7f3-4343-8606-d1f4493891d9" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hee932a36-e8c2-4ea2-81b9-779621d44289" version="1"/>
+                    <attribute id="ProgressionTableId" type="guid" value="55c05326-0bff-4597-a945-d8fe91175910"/>
+                    <attribute id="SelectorId" type="FixedString" value="ResearchApproach2"/>
+                    <attribute id="UUID" type="guid" value="3263682b-abec-4807-b122-eccc3e9b12a2"/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="hcc0b91f0-a7f3-4343-8606-d1f4493891d9" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hee932a36-e8c2-4ea2-81b9-779621d44289" version="1"/>
+                    <attribute id="ProgressionTableId" type="guid" value="55c05326-0bff-4597-a945-d8fe91175910"/>
+                    <attribute id="SelectorId" type="FixedString" value="ResearchApproach3"/>
+                    <attribute id="UUID" type="guid" value="b528480f-1c4a-4b64-8234-b05c8baea5e4"/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="hcc0b91f0-a7f3-4343-8606-d1f4493891d9" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hee932a36-e8c2-4ea2-81b9-779621d44289" version="1"/>
+                    <attribute id="ProgressionTableId" type="guid" value="55c05326-0bff-4597-a945-d8fe91175910"/>
+                    <attribute id="SelectorId" type="FixedString" value="ResearchApproach4"/>
+                    <attribute id="UUID" type="guid" value="33fa0ce6-33db-4048-8445-ae7b73fec229"/>
+                </node>
+
+
+            </children>
+        </node>
+    </region>
+</save>

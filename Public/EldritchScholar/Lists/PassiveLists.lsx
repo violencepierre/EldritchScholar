@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="328"/>
+    <region id="PassiveLists">
+        <node id="root">
+            <children>
+                <node id="PassiveList">
+                    <attribute id="Passives" type="LSString" value="ResearchConservative1,ResearchAggressive1"/>
+                    <attribute id="UUID" type="guid" value="fca428ce-b3e1-4b35-97f1-3189dc99fc45"/>
+                </node>
+                <node id="PassiveList">
+                    <attribute id="Passives" type="LSString" value="ResearchConservative2,ResearchAggressive2"/>
+                    <attribute id="UUID" type="guid" value="73086cfa-bc04-4995-bdd7-3f96b578c86a"/>
+                </node>
+                <node id="PassiveList">
+                    <attribute id="Passives" type="LSString" value="ResearchConservative3,ResearchAggressive3"/>
+                    <attribute id="UUID" type="guid" value="e28d8fb9-35f3-4c9d-923c-1d29217a5c44"/>
+                </node>
+                <node id="PassiveList">
+                    <attribute id="Passives" type="LSString" value="ResearchConservative4,ResearchAggressive4"/>
+                    <attribute id="UUID" type="guid" value="68fae181-2289-4435-8d90-3c24cfda86c3"/>
+                </node>
+
+            </children>
+        </node>
+    </region>
+</save>

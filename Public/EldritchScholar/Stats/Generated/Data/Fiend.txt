@@ -1,0 +1,23 @@
+new entry "EW_DARK_ONES_BLESSING"
+type "StatusData"
+data "StatusType" "BOOST"
+data "DisplayName" "h489146df-644c-4429-aaf3-abf5dfa09b4b"
+data "Description" "h99b69fbc-cd5c-4b36-b288-435cc6af9919"
+data "Icon" "Status_DarkOnes_Blessing"
+data "SoundStart" "Spell_Passive_Impact_Damage_DarkOnesBlessing_L1to3"
+data "StackId" "TEMPORARY_HP"
+data "Boosts" "IF(IntelligenceGreaterThan(9,context.Source)):TemporaryHP(IntelligenceModifier+5);IF(not IntelligenceGreaterThan(9,context.Source)):TemporaryHP(IntelligenceModifier)+10"
+data "RemoveConditions" "not HasTemporaryHP()"
+data "RemoveEvents" "OnDamage"
+data "StatusGroups" "SG_RemoveOnRespec"
+data "ApplyEffect" "3a76f32b-1b84-4298-90c6-7e430cb9f98b"
+
+
+new entry "EW_PASSIVE_DARK_ONES_BLESSING"
+type "StatusData"
+data "StatusType" "EFFECT"
+using "_PASSIVES"
+data "DisplayName" "h489146df-644c-4429-aaf3-abf5dfa09b4b"
+data "StatusPropertyFlags" "ApplyToDead;DisableOverhead;DisableCombatlog;DisablePortraitIndicator"
+data "StatusEffect" "54420b48-840e-49f3-a458-f524a4efaffa"
+
