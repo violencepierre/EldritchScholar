@@ -21,9 +21,6 @@ add equipment entry "OBJ_Backpack_CampSupplies"
 add equipmentgroup
 add equipment entry "ARM_Shoes"
 add equipmentgroup
-add equipment entry "WPN_Rapier"
-add equipmentgroup
 add equipment entry "OBJ_Backpack_AC1_CW15_I"
-add equipmentgroup
-add equipment entry "ARM_Instrument_Violin"
+
 

@@ -7,9 +7,9 @@
 				<node id="Resource">
 					<attribute id="ID" type="FixedString" value="bdbc3575-7f59-416d-874e-ae39ca46cdb4" />
 					<attribute id="Localized" type="bool" value="False" />
-					<attribute id="Name" type="LSString" value="Icons_Arcanist" />
+					<attribute id="Name" type="LSString" value="Icons_EldritchScholar" />
 					<attribute id="SRGB" type="bool" value="True" />
-					<attribute id="SourceFile" type="LSString" value="Public/Arcanist/Assets/Textures/Icons/Icons_Arcanist.dds" />
+					<attribute id="SourceFile" type="LSString" value="Public\Game\GUI\Assets\ClassIcons\wizard.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
 					<attribute id="Template" type="FixedString" value="Icons_Items" />
 					<attribute id="Type" type="int32" value="0" />

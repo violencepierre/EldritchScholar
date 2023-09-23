@@ -1,9 +1,8 @@
-
 new entry "ARM_EldritchRobes_Body"
 type "Armor"
 using "_Body"
 data "RootTemplate" "7d6dad79-550e-4476-ae78-aa7f902cb8ee"
-data "ArmorClass" "11"
+data "ArmorClass" "2"
 data "Weight" "1"
 data "Armor Class Ability" "Dexterity"
 data "ValueOverride" "1"

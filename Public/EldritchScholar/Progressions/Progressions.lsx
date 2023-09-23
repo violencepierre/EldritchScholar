@@ -2,12 +2,12 @@
 <save>
     <version major="4" minor="0" revision="9" build="330"/>
     <region id="Progressions">
-        <node id="root">
-		
+        <node id="root">	
 			<children>
-                 <node id="Progression">
+
+				<node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="false"/>
-                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,1);ProficiencyBonus(SavingThrow,Intelligence);ProficiencyBonus(SavingThrow,Wisdom)"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,2,1);ProficiencyBonus(SavingThrow,Intelligence);ProficiencyBonus(SavingThrow,Wisdom)"/>
                     <attribute id="IsMulticlass" type="bool" value="false"/>
                     <attribute id="Level" type="uint8" value="1"/>
                     <attribute id="Name" type="LSString" value="EldritchScholar"/>
@@ -29,7 +29,7 @@
                 </node>
                 <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="false"/>
-                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,1)"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,2,1)"/>
                     <attribute id="IsMulticlass" type="bool" value="true"/>
                     <attribute id="Level" type="uint8" value="1"/>
                     <attribute id="Name" type="LSString" value="EldritchScholar"/>
@@ -63,7 +63,7 @@
                 </node>
                 <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="false"/>
-                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,2);"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,2,2)"/>
                     <attribute id="Level" type="uint8" value="3"/>
                     <attribute id="Name" type="LSString" value="EldritchScholar"/>
                     <attribute id="PassivesAdded" type="LSString" value="EldritchAffinityNovice"/>
@@ -87,7 +87,7 @@
                 </node>
                 <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="false"/>
-                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,3)"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,2,3)"/>
                     <attribute id="Level" type="uint8" value="5"/>
                     <attribute id="Name" type="LSString" value="EldritchScholar"/>
                     <attribute id="PassivesAdded" type="LSString" value=""/>
@@ -111,7 +111,7 @@
                 </node>
                 <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="false"/>
-                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,4)"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,2,4)"/>
                     <attribute id="Level" type="uint8" value="7"/>
                     <attribute id="Name" type="LSString" value="EldritchScholar"/>
                     <attribute id="PassivesAdded" type="LSString" value=""/>
@@ -135,7 +135,7 @@
                 </node>
                 <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="false"/>
-                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,5)"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,2,5)"/>
                     <attribute id="Level" type="uint8" value="9"/>
                     <attribute id="Name" type="LSString" value="EldritchScholar"/>
                     <attribute id="PassivesAdded" type="LSString" value="EldritchAffinityExpert"/>
@@ -159,7 +159,7 @@
                 </node>
                 <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="false"/>
-                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,6)"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,2,6)"/>
                     <attribute id="Level" type="uint8" value="11"/>
                     <attribute id="Name" type="LSString" value="EldritchScholar"/>
                     <attribute id="PassivesAdded" type="LSString" value=""/>
@@ -181,6 +181,11 @@
                     <attribute id="TableUUID" type="guid" value="55c05326-0bff-4597-a945-d8fe91175910"/>
                     <attribute id="UUID" type="guid" value="6a87502c-4924-46c5-9747-a176734d8e41"/>
                 </node>
+
+
+				
+				
+				
                 <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="false"/>
                     <attribute id="Boosts" type="LSString" value=""/>

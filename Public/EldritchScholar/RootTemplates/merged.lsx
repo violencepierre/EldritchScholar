@@ -143,7 +143,7 @@
 													<attribute id="Object" type="FixedString" value="f0d258d2-e455-8c1e-cd8d-90e32862c559" /> HUM_M_ARM_Padded_A_Pants
 												</node>
 												<node id="MapValue">
-													<attribute id="Object" type="FixedString" value="bb3fea3d-2693-adc0-566d-88dd6fed8535" />
+													<attribute id="Object" type="FixedString" value="12097cbf-72cc-a21f-838a-afd02f146858" />
 												</node>
 											</children>
 										</node>
@@ -155,7 +155,7 @@
 												</node>		
 											
 												<node id="MapValue">
-													<attribute id="Object" type="FixedString" value="04741d75-66f6-e766-18a8-2c07f326ca13" /> HUM_F_ARM_Robe_C_3_Body
+													<attribute id="Object" type="FixedString" value="55b92629-3026-3563-b3b5-df3d033efcb3" /> HUM_F_ARM_Robe_C_3_Body
 												</node>
 												<node id="MapValue">
 													<attribute id="Object" type="FixedString" value="eed3cb7b-fa3c-a65f-f2d7-bf8d1b322e02" /> HUM_F_ARM_Robe_C_Bracers_1
