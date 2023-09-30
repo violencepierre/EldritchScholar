@@ -8,3 +8,4 @@ data "Armor Class Ability" "Dexterity"
 data "ValueOverride" "1"
 data "Rarity" "Rare"
 
+

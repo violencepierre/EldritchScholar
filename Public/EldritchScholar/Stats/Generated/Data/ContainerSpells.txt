@@ -16,7 +16,7 @@ data "SpellAnimation" "03114753-8d91-4c52-8207-728a67cdd59b,,;,,;51c06d74-c048-4
 data "SpellAnimationIntentType" "Aggressive"
 data "PrepareEffect" "af787096-8656-4495-a6ce-cbd376578069"
 data "CastEffect" "b7fb4cd6-971f-44c0-9447-378092d36b63"
-data "SpellFlags" "IsLinkedSpellContainer"
+data "SpellFlags" "IsLinkedSpellContainer;IsSpell"
 
 new entry "Shout_Invocation_Ritual5"
 type "SpellData"
@@ -36,7 +36,7 @@ data "SpellAnimation" "03114753-8d91-4c52-8207-728a67cdd59b,,;,,;51c06d74-c048-4
 data "SpellAnimationIntentType" "Aggressive"
 data "PrepareEffect" "af787096-8656-4495-a6ce-cbd376578069"
 data "CastEffect" "b7fb4cd6-971f-44c0-9447-378092d36b63"
-data "SpellFlags" "IsLinkedSpellContainer"
+data "SpellFlags" "IsLinkedSpellContainer;IsSpell"
 
 new entry "Shout_Invocation_Ritual7"
 type "SpellData"
@@ -56,7 +56,7 @@ data "SpellAnimation" "03114753-8d91-4c52-8207-728a67cdd59b,,;,,;51c06d74-c048-4
 data "SpellAnimationIntentType" "Aggressive"
 data "PrepareEffect" "af787096-8656-4495-a6ce-cbd376578069"
 data "CastEffect" "b7fb4cd6-971f-44c0-9447-378092d36b63"
-data "SpellFlags" "IsLinkedSpellContainer"
+data "SpellFlags" "IsLinkedSpellContainer;IsSpell"
 
 new entry "Shout_Invocation_Ritual9"
 type "SpellData"
@@ -76,7 +76,7 @@ data "SpellAnimation" "03114753-8d91-4c52-8207-728a67cdd59b,,;,,;51c06d74-c048-4
 data "SpellAnimationIntentType" "Aggressive"
 data "PrepareEffect" "af787096-8656-4495-a6ce-cbd376578069"
 data "CastEffect" "b7fb4cd6-971f-44c0-9447-378092d36b63"
-data "SpellFlags" "IsLinkedSpellContainer"
+data "SpellFlags" "IsLinkedSpellContainer;IsSpell"
 
 new entry "Shout_Invocation_Ritual12"
 type "SpellData"
@@ -96,5 +96,5 @@ data "SpellAnimation" "03114753-8d91-4c52-8207-728a67cdd59b,,;,,;51c06d74-c048-4
 data "SpellAnimationIntentType" "Aggressive"
 data "PrepareEffect" "af787096-8656-4495-a6ce-cbd376578069"
 data "CastEffect" "b7fb4cd6-971f-44c0-9447-378092d36b63"
-data "SpellFlags" "IsLinkedSpellContainer"
+data "SpellFlags" "IsLinkedSpellContainer;IsSpell"
 

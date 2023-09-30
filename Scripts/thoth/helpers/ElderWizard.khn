@@ -29,3 +29,16 @@ function LethalHP40(entity)
 	entity = entity or context.Target
     return ConditionResult(entity.HP <= 40)
 end
+
+
+function EW_IsCantrip()
+    return HasCantripSpellLevel() & 
+    HasSpellFlag(SpellFlags.Spell) & 
+    ~HasUseCosts('SpellSlot') & 
+    ~HasUseCosts('KiPoint') & 
+    ~HasUseCosts('WarlockSpellSlot') & 
+    ~HasUseCosts('ArcaneRecoveryPoint') & 
+    ~HasUseCosts('NaturalRecoveryPoint') & 
+    ~HasUseCosts('WildShape') & 
+    ~HasUseCosts('Invocation_resource')
+end

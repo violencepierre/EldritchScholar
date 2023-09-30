@@ -8,7 +8,7 @@
 				<node id="Outcome">
                     <attribute id="GroupName" type="FixedString" value="Experimentation"/>
                     <attribute id="Spell" type="FixedString" value="Shout_ExperimentHeal"/>
-                    <attribute id="UUID" type="guid" value="156cfb67-2bc5-4fa1-81a4-8df49cd7003c"/>
+                    <attribute id="UUID" type="guid" value="22a3b19a-540d-48df-ba78-77704406b35b"/>
                 </node>
 
 				
