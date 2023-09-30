@@ -7,10 +7,15 @@
                 
 				<node id="Outcome">
                     <attribute id="GroupName" type="FixedString" value="Experimentation"/>
-                    <attribute id="Spell" type="FixedString" value="Shout_ExperimentHeal"/>
+                    <attribute id="Spell" type="FixedString" value="Shout_ExperimentHarm"/>
                     <attribute id="UUID" type="guid" value="22a3b19a-540d-48df-ba78-77704406b35b"/>
                 </node>
 
+				<node id="Outcome">
+                    <attribute id="GroupName" type="FixedString" value="Experimentation"/>
+                    <attribute id="Spell" type="FixedString" value="Shout_ExperimentHeal"/>
+                    <attribute id="UUID" type="guid" value="22a3b19a-540d-48df-ba78-77704406b35b"/>
+                </node>
 				
 				
 				

@@ -40,31 +40,3 @@ data "VerbalIntent" "Healing"
 
 
 
-
-
-
-
-
-
-new entry "Experiment_Heal"
-type "StatusData"
-data "StatusType" "BOOST"
-data "DisplayName" "hbcfe4beagf682g45eega19agb472d345f7bf;1"
-data "Description" "hf20289f3g02f1g492dg80fbg81b7606ef659;3"
-data "DescriptionParams" "Distance(3);RegainHitPoints(1d4)"
-data "Icon" "statIcons_WildMagic_Heal"
-data "SoundLoop" "Spell_Status_WildMagic_Heal_MO"
-data "SoundStop" "Spell_Status_WildMagic_Heal_MO_Stop"
-data "StackId" "Experiment_Heal"
-data "Passives" "Passive_Experiment_Heal"
-data "StatusPropertyFlags" "DisableOverhead"
-data "StatusEffect" "b066badc-492a-43b0-8df1-8370865fc039"
-
-new entry "Passive_Experiment_Heal"
-type "PassiveData"
-data "DisplayName" "h5aaddfeegde45g4a3bgaef7gfbedc9588081;1"
-data "Properties" "IsHidden"
-data "StatsFunctorContext" "OnCast"
-data "Conditions" "HasSpellFlag(SpellFlags.Spell)"
-data "StatsFunctors" "RegainHitPoints(2d4)"
-
