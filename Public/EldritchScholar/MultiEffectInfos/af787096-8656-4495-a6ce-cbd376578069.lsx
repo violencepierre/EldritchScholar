@@ -6,7 +6,7 @@
 			<attribute id="UUID" type="guid" value="af787096-8656-4495-cea6-d3cb57766980" />
 			<attribute id="Name" type="LSString" value="ArcaneRecovery_PrepareEffect" />
 			<children>
-				<node id="EffectInfo">Sumajin — Today at 6:41 PM alt+0153 on your numpad is ™
+				<node id="EffectInfo">Sumajin — Today at 6:41 PM alt+0153 on your numpad is ™ b090825a-0728-4566-a02b-056a188cc347
 					<attribute id="UUID" type="guid" value="32b3a9ef-df76-464d-3f82-7b20af8a4501" />
 					<attribute id="EffectResourceGuid" type="guid" value="96e37cc9-10a7-5cdd-cd5b-da8bf17581e4" />
 					<attribute id="DetachSource" type="bool" value="False" />
