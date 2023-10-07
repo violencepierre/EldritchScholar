@@ -8,15 +8,50 @@
 				<node id="Outcome">
                     <attribute id="GroupName" type="FixedString" value="Experimentation"/>
                     <attribute id="Spell" type="FixedString" value="Shout_ExperimentHarm"/>
-                    <attribute id="UUID" type="guid" value="22a3b19a-540d-48df-ba78-77704406b35b"/>
+                    <attribute id="UUID" type="guid" value="9157db55-cdf7-4da6-90ec-951fcb31b10b"/>
                 </node>
 
 				<node id="Outcome">
                     <attribute id="GroupName" type="FixedString" value="Experimentation"/>
                     <attribute id="Spell" type="FixedString" value="Shout_ExperimentHeal"/>
-                    <attribute id="UUID" type="guid" value="22a3b19a-540d-48df-ba78-77704406b35b"/>
+                    <attribute id="UUID" type="guid" value="37821d16-79fd-401b-a9bd-fa20f1881262"/>
                 </node>
-				
+
+				<node id="Outcome">
+                    <attribute id="GroupName" type="FixedString" value="Experimentation2"/>
+                    <attribute id="Spell" type="FixedString" value="Shout_ExperimentHarm2"/>
+                    <attribute id="UUID" type="guid" value="da9b5b07-6f29-46cd-b9cb-5d51aa5a12f1"/>
+                </node>
+
+				<node id="Outcome">
+                    <attribute id="GroupName" type="FixedString" value="Experimentation2"/>
+                    <attribute id="Spell" type="FixedString" value="Shout_ExperimentHeal2"/>
+                    <attribute id="UUID" type="guid" value="8d3073c1-9a55-44df-8820-97aebae97333"/>
+                </node>
+
+				<node id="Outcome">
+                    <attribute id="GroupName" type="FixedString" value="Experimentation3"/>
+                    <attribute id="Spell" type="FixedString" value="Shout_ExperimentHarm3"/>
+                    <attribute id="UUID" type="guid" value="503e59c9-d0a7-47a1-b2e1-4b583211ffa4"/>
+                </node>
+
+				<node id="Outcome">
+                    <attribute id="GroupName" type="FixedString" value="Experimentation3"/>
+                    <attribute id="Spell" type="FixedString" value="Shout_ExperimentHeal3"/>
+                    <attribute id="UUID" type="guid" value="c3479310-09c6-43d6-a463-2e9105f7465a"/>
+                </node>
+
+				<node id="Outcome">
+                    <attribute id="GroupName" type="FixedString" value="Experimentation4"/>
+                    <attribute id="Spell" type="FixedString" value="Shout_ExperimentHarm4"/>
+                    <attribute id="UUID" type="guid" value="83a09fa8-5969-4bac-8831-549068058a1f"/>
+                </node>
+
+				<node id="Outcome">
+                    <attribute id="GroupName" type="FixedString" value="Experimentation4"/>
+                    <attribute id="Spell" type="FixedString" value="Shout_ExperimentHeal4"/>
+                    <attribute id="UUID" type="guid" value="e1309489-f5e8-4aef-9c22-8ae6d4342746"/>
+                </node>				
 				
 				
 				

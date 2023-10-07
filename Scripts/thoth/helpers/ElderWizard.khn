@@ -42,3 +42,4 @@ function EW_IsCantrip()
     ~HasUseCosts('WildShape') & 
     ~HasUseCosts('Invocation_resource')
 end
+
